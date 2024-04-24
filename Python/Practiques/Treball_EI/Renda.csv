@@ -1,0 +1,74 @@
+,Codi_Districte,Nom_Districte,Codi_Barri,Nom_Barri,2015,2016,2017,2018
+0,1, Ciutat  Vella ,1, el  Raval ,10896,10980,11407,12351
+1,1, Ciutat  Vella ,2, el  Barri  Gòtic ,14456,14411,14766,14598
+2,1, Ciutat  Vella ,3, la  Barceloneta ,14714,14618,15064,16271
+3,1, Ciutat  Vella ,4, Sant  Pere,  Santa  Caterina  i  la  Ribera ,15154,15930,16461,17803
+4,2,Eixample,5, el  Fort  Pienc ,20817,21374,21495,21890
+5,2,Eixample,6, la  Sagrada  Família ,21089,21396,21465,22128
+6,2,Eixample,7, la  Dreta  de  l'Eixample ,25759,27633,28119,28044
+7,2,Eixample,8, l'Antiga  Esquerra  de  l'Eixample ,24252,25179,25944,26337
+8,2,Eixample,9, la  Nova  Esquerra  de  l'Eixample ,23180,23846,24050,24528
+9,2,Eixample,10, Sant  Antoni ,20496,21237,21627,21916
+10,3,Sants-Montjuïc,11, el  Poble  Sec ,14664,14939,15082,16091
+11,3,Sants-Montjuïc,12, la  Marina  del  Prat  Vermell ,11935,11811,12703,13135
+12,3,Sants-Montjuïc,13, la  Marina  de  Port ,16119,16379,16244,16997
+13,3,Sants-Montjuïc,14, la  Font  de  la  Guatlla ,18850,19034,19147,20011
+14,3,Sants-Montjuïc,15,Hostafrancs,18397,18533,18736,19413
+15,3,Sants-Montjuïc,16, la  Bordeta ,18514,18743,18996,19996
+16,3,Sants-Montjuïc,17, Sants  -  Badal ,18297,18417,18434,19584
+17,3,Sants-Montjuïc,18,Sants,19987,20419,20268,20967
+18,4, Les  Corts ,19, les  Corts ,25740,27108,27393,27551
+19,4, Les  Corts ,20, la  Maternitat  i  Sant  Ramon ,23709,24796,24875,25146
+20,4, Les  Corts ,21,Pedralbes,33169,35765,35710,35361
+21,5, Sarrià-Sant  Gervasi ,22, Vallvidrera,  el  Tibidabo  i  les  Planes ,22840,25561,25748,25235
+22,5, Sarrià-Sant  Gervasi ,23,Sarrià,28847,30410,31906,32373
+23,5, Sarrià-Sant  Gervasi ,24, les  Tres  Torres ,33899,37501,38449,38270
+24,5, Sarrià-Sant  Gervasi ,25, Sant  Gervasi  -  la  Bonanova ,29681,31631,33774,33225
+25,5, Sarrià-Sant  Gervasi ,26, Sant  Gervasi  -  Galvany ,31298,33728,35409,35165
+26,5, Sarrià-Sant  Gervasi ,27, el  Putxet  i  el  Farró ,26114,27697,28651,28671
+27,6,Gràcia,28, Vallcarca  i  els  Penitents ,24090,24880,24798,25023
+28,6,Gràcia,29, el  Coll ,18934,19149,19541,20037
+29,6,Gràcia,30, la  Salut ,22090,22791,23387,23527
+30,6,Gràcia,31, la  Vila  de  Gràcia ,20602,21289,21694,22757
+31,6,Gràcia,32, el  Camp  d'en  Grassot  i  Gràcia  Nova ,23093,23696,23771,24015
+32,7,Horta-Guinardó,33, el  Baix  Guinardó ,20216,20563,20371,21070
+33,7,Horta-Guinardó,34, Can  Baró ,18883,18887,19354,19924
+34,7,Horta-Guinardó,35, el  Guinardó ,19816,20242,20168,20637
+35,7,Horta-Guinardó,36, la  Font  d'en  Fargues ,22559,23984,23886,23604
+36,7,Horta-Guinardó,37, el  Carmel ,14395,14729,14811,15678
+37,7,Horta-Guinardó,38, la  Teixonera ,16003,16831,16516,17317
+38,7,Horta-Guinardó,39, Sant  Genís  dels  Agudells ,17061,16953,17484,17986
+39,7,Horta-Guinardó,40,Montbau,17628,17624,17576,18383
+40,7,Horta-Guinardó,41, la  Vall  d'Hebron ,22082,22389,21613,22394
+41,7,Horta-Guinardó,42, la  Clota ,18079,19888,19162,20311
+42,7,Horta-Guinardó,43,Horta,18285,18757,18846,19367
+43,8, Nou  Barris ,44, Vilapicina  i  la  Torre  Llobeta ,18294,18627,18415,19080
+44,8, Nou  Barris ,45,Porta,16518,16664,16368,16879
+45,8, Nou  Barris ,46, el  Turó  de  la  Peira ,13602,13824,13658,14632
+46,8, Nou  Barris ,47, Can  Peguera ,12002,12560,12507,13577
+47,8, Nou  Barris ,48, la  Guineueta ,18285,18595,18477,19093
+48,8, Nou  Barris ,49,Canyelles,17003,17230,17173,17750
+49,8, Nou  Barris ,50, les  Roquetes ,12593,12759,12855,13643
+50,8, Nou  Barris ,51,Verdun,13519,13782,13742,14490
+51,8, Nou  Barris ,52, la  Prosperitat ,15152,15147,15154,15948
+52,8, Nou  Barris ,53, la  Trinitat  Nova ,11206,11514,11843,12747
+53,8, Nou  Barris ,54, Torre  Baró ,10912,10849,11092,12140
+54,8, Nou  Barris ,55, Ciutat  Meridiana ,10203,10457,10554,11363
+55,8, Nou  Barris ,56,Vallbona,10768,10836,11191,12246
+56,9, Sant  Andreu ,57, la  Trinitat  Vella ,11305,11500,11784,12671
+57,9, Sant  Andreu ,58, Baró  de  Viver ,11217,11602,11492,12823
+58,9, Sant  Andreu ,59, el  Bon  Pastor ,14361,14609,14811,15308
+59,9, Sant  Andreu ,60, Sant  Andreu ,20177,20622,20478,21112
+60,9, Sant  Andreu ,61, la  Sagrera ,18638,19209,19080,19566
+61,9, Sant  Andreu ,62, el  Congrés  i  els  Indians ,18536,18948,18907,19827
+62,9, Sant  Andreu ,63,Navas,19020,19436,19321,20051
+63,10, Sant  Martí ,64, el  Camp  de  l'Arpa  del  Clot ,19561,20036,20076,20753
+64,10, Sant  Martí ,65, el  Clot ,19157,19773,19512,20415
+65,10, Sant  Martí ,66, el  Parc  i  la  Llacuna  del  Poblenou ,19663,20082,20237,20601
+66,10, Sant  Martí ,67, la  Vila  Olímpica  del  Poblenou ,30058,30840,30425,30579
+67,10, Sant  Martí ,68, el  Poblenou ,20371,20828,21051,21557
+68,10, Sant  Martí ,69, Diagonal  Mar  i  el  Front  Marítim  del  Poblenou ,23274,24150,23277,24081
+69,10, Sant  Martí ,70, el  Besòs  i  el  Maresme ,12474,12392,12433,12981
+70,10, Sant  Martí ,71, Provençals  del  Poblenou ,18642,19201,19199,19975
+71,10, Sant  Martí ,72, Sant  Martí  de  Provençals ,17613,17821,17766,18447
+72,10, Sant  Martí ,73, la  Verneda  i  la  Pau ,16022,16310,16226,16710
