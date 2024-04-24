@@ -1,0 +1,34 @@
+---- fitxer d'observacions d'animals
+---- dades de la cruïlla entre Diagonal i Passeig de Gràcia
+---- preses entre els anys 1984 i 1995
+---- Les dades són evidentment una mica estranyes!!
+Animal	dia mes any	pesos observats
+---------------------------------------------------
+Lleó	3 feb 85	450 345 554 345 214 634
+Tigre 	45 may 78	3400 12 56
+Lleó	1 oct 99	440 567 1234 233 9999
+Elefant	4 abr 27	30 31 44 44 44 44
+Ratolí	2 dic 97	320 800 567 0934 88
+Lleó	2 ene 48	12 34 56 78 90 900
+Elefant	6 sep 54	444 57 0 -23 9988 40
+Tigre	200 may 78	20
+Lleó	10 sep 79	1 2 3 4
+Lleó	3 feb 86	350 245 454 634
+Tigre 	46 jun 78	34 1200 56
+Lleó	1 oct 98	567 445 7789 -1 77
+Elefant	5 abr 27	30 31 55 55
+Ratolí	3 dic 97	567 934 88
+Lleó	2 feb 48	21 43 54 76 988
+Elefant	8 sep 54	444 57 0 23 9988 140
+Tigre	20 may 76	21
+Lleó	31 sep 80	1 2 3 5 6 7
+Lleó	4 feb 85	450 345 655 79
+Tigre 	44 may 78	34 12 5600
+Lleó	2 oct 98	54 333 876 93
+Elefant	5 abr 27	30 31 44 4555
+Ratolí	2 nov 97	65 33 0,1 877
+Lleó	1 ene 48	12 34 55 54 5333
+Elefant	6 sep 54	444 57 0 -23 9988 40
+Tigre	200 may 78	20
+Lleó	0 sep 79	1 2 3
+
